@@ -1,27 +1,37 @@
-# Laravel PHP Framework
+# Laravel 5.3.16 para PhpStorm
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+Instalación de laravel para que funcione perfectamente en PhpStorm
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+## Créditos
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+Tutorial sacado de:
 
-## Official Documentation
+https://www.youtube.com/watch?v=QSZK1W0fbGQ
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+## Tareas realizadas
 
-## Contributing
+Instalación de paquetes:
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+Laravel-ide-helper
+https://github.com/barryvdh/laravel-ide-helper
 
-## Security Vulnerabilities
+Laravel-lang
+https://github.com/caouecs/Laravel-lang
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+Laravelcollective/html
+https://laravelcollective.com/docs/5.3/html
 
-## License
+Modificaciones:
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+-Traducción al español
+
+-Tiempo local a hora de Chile
+
+-Importadas las clases de los paquetes instalados
+
+## TODO
+
+-Instalar el plugin de laravel en PhpStorm
+-Agregar el Command Line Tool de Artisan
+
+
