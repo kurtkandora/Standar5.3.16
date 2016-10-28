@@ -34,3 +34,4 @@ Modificaciones:
 -Instalar el plugin de laravel en PhpStorm
 -Agregar el Command Line Tool de Artisan
 
+
