@@ -29,9 +29,19 @@ Modificaciones:
 
 -Importadas las clases de los paquetes instalados
 
+-Funcionando elixir
+
 ## TODO
 
 -Instalar el plugin de laravel en PhpStorm
 -Agregar el Command Line Tool de Artisan
+-Realizar npm install (con la ultima version de nodejs)
 
+## EN DESARROLLO
 
+-Ejecutar gulp en consola para compilar los archivos, y las pruebas de phpUnit
+-Ejecutar gulp watch para que el comando gulp se ejecute automáticamente cuando se modifique un archivo
+
+## EN PRODUCCIÓN
+
+-Ejecutar gulp --production para que los archivos css y js se compriman
