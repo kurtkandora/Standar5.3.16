@@ -34,12 +34,15 @@ Modificaciones:
 ## TODO
 
 -Instalar el plugin de laravel en PhpStorm
+
 -Agregar el Command Line Tool de Artisan
+
 -Realizar npm install (con la ultima version de nodejs)
 
 ## EN DESARROLLO
 
 -Ejecutar gulp en consola para compilar los archivos, y las pruebas de phpUnit
+
 -Ejecutar gulp watch para que el comando gulp se ejecute automáticamente cuando se modifique un archivo
 
 ## EN PRODUCCIÓN
