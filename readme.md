@@ -35,6 +35,8 @@ Modificaciones:
 
 -Instalar el plugin de laravel en PhpStorm
 
+-Ejecutar composer install
+
 -Agregar el Command Line Tool de Artisan
 
 -Realizar npm install (con la ultima version de nodejs)
