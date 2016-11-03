@@ -31,6 +31,9 @@ Modificaciones:
 
 -Funcionando elixir
 
+-Agregada la libreria Sweetalert 
+
+
 ## TODO
 
 -Instalar el plugin de laravel en PhpStorm
@@ -40,6 +43,8 @@ Modificaciones:
 -Agregar el Command Line Tool de Artisan
 
 -Realizar npm install (con la ultima version de nodejs)
+
+-Borrar @import "bootstrap/glyphicons"; del archivo bootstrap.scss
 
 ## EN DESARROLLO
 
