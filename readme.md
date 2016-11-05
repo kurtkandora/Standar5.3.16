@@ -33,6 +33,8 @@ Modificaciones:
 
 -Agregada la libreria Sweetalert 
 
+-Agregada la funcion mensaje en los helpers
+
 
 ## TODO
 
@@ -45,6 +47,8 @@ Modificaciones:
 -Realizar npm install (con la ultima version de nodejs)
 
 -Borrar @import "bootstrap/glyphicons"; del archivo bootstrap.scss
+
+-Cambiar el namespace en App\Http\Mensaje y en helpers.php
 
 ## EN DESARROLLO
 

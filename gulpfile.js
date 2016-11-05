@@ -16,11 +16,19 @@ require('laravel-elixir-vue-2');
 elixir(mix => {
     mix.sass('app.scss')
         .webpack('app.js');
+
+    // al final debe estas app.js
     mix.styles([
         'node_modules/sweetalert/dist/sweetalert.css',
         'public/css/app.css'
-    ],'public/css/app.css','./');
+    ], 'public/css/app.css', './');
+
+    // al principio estan las dependencias
+    mix.scripts([
+        'public/js/app.js',
+        'node_modules/sweetalert/dist/sweetalert-dev.js',
+    ], 'public/js/app.js', './');
 
 
-    mix.phpUnit();
+    //mix.phpUnit();
 });
