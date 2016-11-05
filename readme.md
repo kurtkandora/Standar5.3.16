@@ -33,6 +33,8 @@ Modificaciones:
 
 -Agregada la libreria Sweetalert 
 
+-Agregada la funcion mensaje en los helpers
+
 
 ## TODO
 
@@ -46,11 +48,17 @@ Modificaciones:
 
 -Borrar @import "bootstrap/glyphicons"; del archivo bootstrap.scss
 
+-Cambiar el namespace en App\Http\Mensaje y en helpers.php
+
 ## EN DESARROLLO
 
 -Ejecutar gulp en consola para compilar los archivos, y las pruebas de phpUnit
 
 -Ejecutar gulp watch para que el comando gulp se ejecute automáticamente cuando se modifique un archivo
+
+-Ejecutar composer dump-autoload
+
+-Ejecutar php artisan ide-helper:models por cada modelo para usar auto completado en el codigo
 
 ## EN PRODUCCIÓN
 
