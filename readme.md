@@ -46,9 +46,11 @@ Modificaciones:
 
 -Realizar npm install (con la ultima version de nodejs)
 
--Borrar @import "bootstrap/glyphicons"; del archivo bootstrap.scss
+-Comandos artisan key:generate  artisan app:name php artisan optimize
 
--Cambiar el namespace en App\Http\Mensaje y en helpers.php
+-Configurar Directorios todos azules y node_modules rojo
+
+-Borrar @import "bootstrap/glyphicons"; del archivo bootstrap.scss
 
 ## EN DESARROLLO
 
