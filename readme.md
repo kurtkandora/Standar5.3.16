@@ -52,6 +52,12 @@ Modificaciones:
 
 -Borrar @import "bootstrap/glyphicons"; del archivo bootstrap.scss
 
+-Configurar la ip del la ejecución de la aplicacion a 127.0.0.[numero cualquiera]
+
+- Modificar el archivo C:\Windows\System32\drivers\etc\hosts y agregar (127.0.0.[numero elegido para la ejecución] [dominio aplicación].app)
+
+-Modificar SESSION_DOMAIN a [dominio aplicación].app
+
 ## EN DESARROLLO
 
 -Ejecutar gulp en consola para compilar los archivos, y las pruebas de phpUnit
