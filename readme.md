@@ -58,6 +58,8 @@ Modificaciones:
 
 -Modificar SESSION_DOMAIN a [dominio aplicación].app
 
+-Instalar PHPUnit en una carpeta personal, agregar una configuración para [Run] donde ocupe PHPUnit utilizado phpunit.xml en [Defined in the configuration file]
+
 ## EN DESARROLLO
 
 -Ejecutar gulp en consola para compilar los archivos, y las pruebas de phpUnit
